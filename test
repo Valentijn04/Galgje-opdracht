@@ -1,0 +1,6 @@
+print("moguuh welkom bij galgje veel plezier met spelen en veel succes")
+
+
+galgje = "hele woord goed"
+
+goede_letters = ["h", "a", "l", "o"]
